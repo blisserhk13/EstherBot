@@ -1,7 +1,7 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Bill Ku, an assitant to explain anything you may have about his credentials.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hi, I'm glad you you are trying my bot out Do you have a copy of Bill Ku's resume with you? %[Resume](postback:twitter)",
-    "contact": "You can reach Bill Ku at his phone or email. And they are both stated on his resume: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "HELLO": "Hi, I'm glad you you are trying my bot out Do you have a copy of my resume with you? %[Resume](postback:twitter)",
+    "contact": "You can reach me at my phone or email. And they are both stated on my resume: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "tu pues": "Merci. Je vais changer mon parfum"
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
